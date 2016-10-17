@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Clients>
+  <Client ClientID="1" FirstName="First1" LastName="Last1" Email="client1@mail.com" Country="country1" />
+  <Client ClientID="2" FirstName="First2" LastName="Last2" Email="client2@mail.com" Country="country2" />
+  <Client ClientID="3" FirstName="First3" LastName="Last3" Email="client3@mail.com" Country="country3" />
+  <Client ClientID="4" FirstName="First4" LastName="Last4" Email="client4@mail.com" Country="country4" />
+  <Client ClientID="5" FirstName="First5" LastName="Last5" Email="client5@mail.com" Country="country5" />
+  <Client ClientID="6" FirstName="First6" LastName="Last6" Email="client6@mail.com" Country="country6" />
+  <Client ClientID="7" FirstName="First7" LastName="Last7" Email="client7@mail.com" Country="country7" />
+  <Client ClientID="8" FirstName="First8" LastName="Last8" Email="client8@mail.com" Country="country8" />
+  <Client ClientID="9" FirstName="First9" LastName="Last9" Email="client9@mail.com" Country="country9" />
+</Clients>
